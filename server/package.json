@@ -1,0 +1,19 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fast-two-sms": "^3.0.0",
+    "mongoose": "^5.12.4",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon database.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
